@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-![image](assignmentoutput.png)
+<p align = "center" >
+<img src= "https://github.com/shikharcookies/sample/blob/main2/assignmentoutput.png" width="200" height="400" />
+</p>
 
 ## Getting Started
 
